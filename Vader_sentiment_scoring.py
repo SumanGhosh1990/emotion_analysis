@@ -53,6 +53,6 @@ for i, row in df.iterrows():
 vaders = pd.DataFrame(res).T
 vaders = vaders.reset_index().rename(columns={'index': 'Id'})
 vaders = vaders.merge(df, how='left')
-
+output = vaders[['Text','neg', 'neu', 'pos', 'compound']]
 # Now we have sentiment score and metadata
-print(vaders.head())
+print(output.head())
