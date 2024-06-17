@@ -3,9 +3,18 @@
 # for downloading 
 
 from transformers import pipeline
-classifier = pipeline(task="text-classification", model="SamLowe/roberta-base-go_emotions", top_k=None)
-emotions_list = classifier(['I am not having a great day.',"i'm sorry that the order got delayed"])
+# classifier = pipeline(task="text-classification", model="SamLowe/roberta-base-go_emotions", top_k=None)
+classifier = pipeline(task="text-classification",model = "j-hartmann/emotion-english-distilroberta-base", top_k=None)
+emotions_list = classifier(['I am not having a great day.',
+                            "i'm sorry that the order got delayed",
+                            "why are we not fair on promotions?",
+                            "why are our appraisal hike is so low while HSBC has done well financially?",
+                            "why the insurance limit is so less for GCB6?"])
+# emotions_list
 
+classifier_sentiment = pipeline(task="sentiment-analysis")
+sentiment_list = classifier_sentiment(["why the increment was so lower while the bank has done so well?","why the insurance limit is so less for GCB6?"])
+sentiment_list
 
 def getting_top_emotions(text,top:int):
     
