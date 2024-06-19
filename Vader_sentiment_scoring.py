@@ -5,7 +5,7 @@ import numpy as np
 
 # plt.style.use('ggplot')
 
-
+import streamlit as st
 import nltk
 import ssl
 
@@ -18,41 +18,66 @@ import ssl
 #
 # nltk.download()
 # Read in data
-df = pd.read_csv('Reviews.csv')
-print(df.shape)
-df = df.head(500)
-print(df.shape)
+df = pd.read_csv('demo.csv')
+# print(df.shape)
+# df = df.head(500)
+# print(df.shape)
+#
+# example = df['Text'][50]
+# print(example)
 
-example = df['Text'][50]
-print(example)
-
-tokens = nltk.word_tokenize(example)
-tokens[:10]
-
-tagged = nltk.pos_tag(tokens)
-tagged[:10]
+# tokens = nltk.word_tokenize(example)
+# tokens[:10]
+#
+# tagged = nltk.pos_tag(tokens)
+# tagged[:10]
 
 from nltk.sentiment import SentimentIntensityAnalyzer
 from tqdm.notebook import tqdm
+#
+# sia = SentimentIntensityAnalyzer()
+#
+# sia.polarity_scores('I am so happy!')
+#
+# sia.polarity_scores('This is the worst thing ever.')
+#
+# # sia.polarity_scores(example)
+#
+# # Run the polarity score on the entire dataset
+# res = {}
+# for i, row in df.iterrows():
+#     text = row['Text']
+#     myid = row['Id']
+#     res[myid] = sia.polarity_scores(text)
+#
+# vaders = pd.DataFrame(res).T
+# vaders = vaders.reset_index().rename(columns={'index': 'Id'})
+# vaders = vaders.merge(df, how='left')
+# output = vaders[['Text','neg', 'neu', 'pos', 'compound']]
+# # Now we have sentiment score and metadata
+# print(output.head())
 
-sia = SentimentIntensityAnalyzer()
+def vader_sentence(text):
+    sia = SentimentIntensityAnalyzer()
+    scores=sia.polarity_scores(text)
+    df = pd.DataFrame(list(scores.items()), columns=["Sentiment", "Scores"]).sort_values(by="Scores",ascending=False)
+    return df
+# text="I am happy"
+# s1=vader_sentence(text)
+def vader_df(df):
+    sia = SentimentIntensityAnalyzer()
+    res = {}
+    for i, row in df.iterrows():
+        text = str(row['Text'])
+        myid = row['Id']
+        res[myid] = sia.polarity_scores(text)
 
-sia.polarity_scores('I am so happy!')
-
-sia.polarity_scores('This is the worst thing ever.')
-
-sia.polarity_scores(example)
-
-# Run the polarity score on the entire dataset
-res = {}
-for i, row in df.iterrows():
-    text = row['Text']
-    myid = row['Id']
-    res[myid] = sia.polarity_scores(text)
-
-vaders = pd.DataFrame(res).T
-vaders = vaders.reset_index().rename(columns={'index': 'Id'})
-vaders = vaders.merge(df, how='left')
-output = vaders[['Text','neg', 'neu', 'pos', 'compound']]
-# Now we have sentiment score and metadata
-print(output.head())
+    vaders = pd.DataFrame(res).T
+    vaders = vaders.reset_index().rename(columns={'index': 'Id'})
+    vaders = vaders.merge(df, how='left')
+    output = vaders[['Text', 'neg', 'neu', 'pos', 'compound']]
+    # Now we have sentiment score and metadata
+    # st.write(output)
+    # print(output)
+    return output
+# vader_df(df)
