@@ -1,6 +1,6 @@
 
 # pip install https://huggingface.co/docs/transformers/v4.15.0/en/installation check out this page and follow instruction 
-# for downloading 
+# for downloading #
 
 from transformers import pipeline
 # classifier = pipeline(task="text-classification", model="SamLowe/roberta-base-go_emotions", top_k=None)
