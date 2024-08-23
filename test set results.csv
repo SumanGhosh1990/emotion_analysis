@@ -1,0 +1,47 @@
+Index,Text,Actual Label,Predicted Label,accuracy
+9, How does the management plan to address the perception that talent is not valued in terms of compensation and recognition?,Negative,Negative,TRUE
+143, How is the bank planning to invest in new technologies to enhance operational efficiency?                 ,Positive,Positive,TRUE
+15, How does the bank support continuous learning and development for its employees?,Positive,Positive,TRUE
+124,What are the latest initiatives in our corporate social responsibility program?,Positive,Positive,TRUE
+153, Can you highlight some of the recent technological advancements the bank has adopted?                     ,Positive,Positive,TRUE
+75, What new training programs will be available to employees?                                        ,Neutral,Positive,FALSE
+126,Are there any new partnerships with non-profits or community organizations?,Positive,Neutral,FALSE
+95, What are the latest initiatives in our corporate social responsibility program?                   ,Neutral,Positive,FALSE
+45, How does the company plan to address the low participation rates in training programs?            ,Negative,Neutral,FALSE
+25, How does the bank plan to improve customer service and satisfaction?,Neutral,Positive,FALSE
+104, How has our market position improved recently?                                                    ,Positive,Neutral,FALSE
+176, How does the bank plan to adapt to changing regulatory requirements?                                      ,Neutral,Neutral,TRUE
+201, What initiatives are in place to promote work-life balance for employees?                                 ,Positive,Positive,TRUE
+19," Can you elaborate on the measures taken to ensure employee safety and well-being, especially during challenging times?",Neutral,Neutral,TRUE
+30, How does the bank ensure compliance with regulatory requirements while maintaining operational efficiency?,Neutral,Neutral,TRUE
+115,Will there be any enhancements to our health benefits package next year?,Positive,Negative,FALSE
+182, How does the bank plan to improve its public relations and brand image?                                   ,Positive,Positive,TRUE
+117,What new perks or benefits are being introduced?,Positive,Negative,FALSE
+86, Will there be any changes to our health benefits package next year?                               ,Neutral,Negative,FALSE
+84, What feedback has been received from recent employee surveys?                                     ,Neutral,Positive,FALSE
+192, How does the bank plan to foster a culture of continuous improvement?                                     ,Positive,Positive,TRUE
+119,What new technologies are being implemented to improve our workflows?,Positive,Neutral,FALSE
+225, What initiatives are in place to support employee volunteerism and community service?                     ,Positive,Positive,TRUE
+161, How does the bank recognize and reward innovation among employees?                                        ,Positive,Positive,TRUE
+18, How does the bank ensure a diverse and inclusive workplace beyond just gender diversity?,Neutral,Positive,FALSE
+101, What are the main achievements from our recent strategic initiatives?                             ,Positive,Neutral,FALSE
+55, Why are there discrepancies in salary adjustments across similar roles?                           ,Negative,Negative,TRUE
+97, What is the company doing to reduce its environmental impact?                                     ,Neutral,Positive,FALSE
+167, Can you share insights into the bank’s plans for future growth and expansion?                             ,Positive,Positive,TRUE
+194, How does the bank plan to enhance its training and development programs?                                  ,Positive,Positive,TRUE
+173, What are the plans to enhance the training programs for new and existing employees?                       ,Positive,Positive,TRUE
+73, What are the key performance indicators we are tracking this quarter?                             ,Neutral,Neutral,TRUE
+79, How often are training programs reviewed and updated?                                             ,Neutral,Neutral,TRUE
+16, What steps are being taken to improve employee engagement and satisfaction?,Neutral,Positive,FALSE
+112, Are there any new initiatives to promote work-life balance?                                       ,Neutral,Positive,FALSE
+158, What measures are being taken to ensure data privacy and protection for our clients?                      ,Neutral,Positive,FALSE
+118,How does the company reward employees for their hard work?,Positive,Negative,FALSE
+152, How does the bank plan to tackle the increasing competition in the industry?                              ,Neutral,Positive,FALSE
+146, How does the bank support continuous learning and professional growth for its employees?                  ,Positive,Positive,TRUE
+125,What is the company doing to reduce its environmental impact?,Neutral,Positive,FALSE
+82, Are there any new initiatives to promote work-life balance?                                       ,Neutral,Positive,FALSE
+142, What steps are being taken to improve employee work-life balance?                                         ,Negative,Positive,FALSE
+120,How is the company fostering a culture of innovation?,Positive,Neutral,FALSE
+69, Why is there a lack of clarity around the company’s long-term vision?                             ,Negative,Neutral,FALSE
+111, How does the company celebrate employee achievements?                                             ,Positive,Positive,TRUE
+93, How can employees suggest new tools or technologies for the company to consider?                  ,Neutral,Positive,FALSE

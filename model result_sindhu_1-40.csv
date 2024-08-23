@@ -1,0 +1,212 @@
+Text,Actual Sentiment,Predicted Sentiment,label,Tweaked Sentiment,,pos+neu,neu+pos,pos+neg,neg+pos,neu+neg,neg+neu
+ what are the recent successes the bank has achieved in terms of financial performance ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+what new perks or benefits are being introduced ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ what are the main goals for the company in the upcoming year ,Neutral,Neutral,TRUE,,,,,,,,
+ will there be any changes to our health benefits package next year ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the company measure the impact of its social responsibility efforts ,Neutral,Neutral,TRUE,,,,,,,,
+ what new opportunities have we identified for growth ,Positive,Neutral,FALSE,Positive,FALSE,1,0,0,0,0,0
+ how does the bank ensure that its values and mission are reflected in its day to day operations ,Neutral,Neutral,TRUE,,,,,,,,
+ can you discuss any upcoming technological advancements or digital transformations within the bank ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ what are the bank s priorities for enhancing operational excellence ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ can you provide a timeline for when the healthcare facility issues will be resolved ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ can you discuss the bank s strategy to stay competitive in the ever evolving financial sector ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ can you elaborate on the measures taken to ensure employee safety and well being especially during challenging times ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to manage and mitigate financial risks ,Neutral,Neutral,TRUE,,,,,,,,
+ what is the company doing to reduce its environmental impact ,Neutral,Neutral,TRUE,,,,,,,,
+ what measures are in place to prevent future layoffs ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ how does the company plan to deal with the low employee engagement scores ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ given the bank s stable financial performance why are the yearly hikes and bonuses not reflective of this success ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ can you share some of the best practices the bank has implemented in its operations ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ why is the new software implementation causing so many disruptions to our work ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ how did the company perform financially last quarter ,Neutral,Neutral,TRUE,,,,,,,,
+ can you provide an update on the bank s financial stability and outlook ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank ensure transparency in financial reporting and disclosures ,Neutral,Neutral,TRUE,,,,,,,,
+ why has there been an increase in workplace accidents recently ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ what initiatives are in place to ensure talent is valued and adequately compensated ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ what initiatives are in place to promote ethical behavior and integrity ,Positive,Neutral,FALSE,Negative,FALSE,1,0,0,0,0,0
+ what are the measures in place to support remote working and flexible work arrangements ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to continue fostering a culture of innovation and collaboration among teams ,Positive,Neutral,FALSE,Positive,FALSE,1,0,0,0,0,0
+ how does the bank foster a culture of transparency and openness in its operations ,Neutral,Neutral,TRUE,,,,,,,,
+ what are the initiatives to support mental health and well being of employees ,Neutral,Neutral,TRUE,,,,,,,,
+ why have we lost major clients in the past quarter ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ how does the bank plan to address the challenges posed by the current economic environment ,Negative,Neutral,FALSE,Neutral,TRUE,0,0,0,0,0,1
+ what steps are being taken to improve the bank s digital marketing strategies ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ what measures are being taken to ensure data privacy and protection for our clients ,Neutral,Neutral,TRUE,,,,,,,,
+ what is being done to address the issue of inadequate office facilities ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ what measures are being implemented to improve the cafeteria facilities for employees ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ what is the bank s approach to innovation and staying ahead of industry trends ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ what criteria are used to select employees for leadership training ,Neutral,Neutral,TRUE,,,,,,,,
+ how are we addressing the negative feedback from our latest product launch ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ how does the bank support employees in maintaining a healthy work life balance ,Neutral,Neutral,TRUE,,,,,,,,
+ what steps is the company taking to improve workplace culture ,Neutral,Neutral,TRUE,,,,,,,,
+ what is the long term strategy for aligning compensation with industry standards ,Neutral,Neutral,TRUE,,,,,,,,
+ can you provide more information about the mentorship programs available to employees ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ how does the bank plan to manage and mitigate risks associated with cybersecurity ,Neutral,Neutral,TRUE,,,,,,,,
+how is the company fostering a culture of innovation ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ what are the bank s plans for expanding its market presence in the coming year ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ how does the bank plan to improve the healthcare facilities provided to employees ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ how often are training programs reviewed and updated ,Neutral,Neutral,TRUE,,,,,,,,
+ why is there limited access to advanced training for senior employees ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ can you share some examples of career development opportunities available to employees ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+how can employees suggest new tools or technologies for the company to consider ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ are there any upcoming changes to the tools we use daily ,Neutral,Neutral,TRUE,,,,,,,,
+ how is the company ensuring that our benefits remain competitive ,Neutral,Neutral,TRUE,,,,,,,,
+ what initiatives are in place to promote sustainability and environmental responsibility ,Neutral,Neutral,TRUE,,,,,,,,
+ can you discuss any upcoming changes or improvements in the bank s it infrastructure ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ how is the bank ensuring that women in leadership roles are supported and successful ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ how does the company plan to rectify the issues raised by recent audits of our csr activities ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ how does the bank recognize and reward high performing employees ,Positive,Neutral,FALSE,Positive,FALSE,1,0,0,0,0,0
+ how does the bank plan to tackle the increasing competition in the industry ,Neutral,Neutral,TRUE,,,,,,,,
+are there any upcoming changes to the tools we use daily ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to enhance its global presence and market reach ,Neutral,Neutral,TRUE,,,,,,,,
+ can you share some success stories of recent projects or initiatives that have positively impacted our clients ,Positive,Neutral,FALSE,Positive,FALSE,1,0,0,0,0,0
+ what initiatives are in place to support the professional development of employees ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ what initiatives are in place to encourage teamwork and collaboration among employees ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ how does the bank plan to retain top talent when compensation and career growth opportunities seem limited ,Negative,Neutral,FALSE,Negative,FALSE,0,0,0,0,0,1
+ how is the bank leveraging data analytics and ai to drive business decisions and strategies ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ what initiatives are in place to improve the quality of customer service ,Positive,Neutral,FALSE,Neutral,TRUE,1,0,0,0,0,0
+ how does the bank support innovation through research and development ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the bank plan to improve its digital banking services ,Neutral,Neutral,TRUE,,,,,,,,
+ while it s commendable that we promote women in leadership roles how do we ensure that these promotions are based on merit and not just for diversity metrics ,Neutral,Neutral,TRUE,,,,,,,,
+ can you highlight the key performance indicators that reflect the bank s success in recent years ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the bank plan to address the perceived unfairness in the promotion process ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ can you share insights into the bank s plans for future growth and expansion ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what steps are being taken to improve the bank s social media presence ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the bank plan to attract and retain top talent in the industry ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+what recent innovations have had the most significant impact ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what initiatives are in place to promote a healthy work life balance for employees ,Neutral,Neutral,TRUE,,,,,,,,
+ why is there a lack of employee involvement in our community outreach programs ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ are there any new benefits or incentives planned to boost employee morale and retention ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what is the bank s strategy for handling employee feedback and suggestions ,Neutral,Neutral,TRUE,,,,,,,,
+ what are the latest developments in the bank s product and service offerings ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ can you explain why our salary compensation is lower than other banks despite our strong financial performance ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how does the bank ensure fair treatment and opportunities for all employees ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the bank plan to adapt to changing regulatory requirements ,Neutral,Neutral,TRUE,,,,,,,,
+ how does our current market position compare to last year ,Neutral,Neutral,TRUE,,,,,,,,
+ what measures are being taken to address the feedback from employee satisfaction surveys ,Neutral,Neutral,TRUE,,,,,,,,
+ how are we addressing the concerns raised about data privacy and security breaches ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ why is there a lack of consistency in the training programs offered across departments ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ what measures are in place to ensure the mental well being of employees ,Neutral,Neutral,TRUE,,,,,,,,
+ what caused the recent decline in our stock price ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how does the bank plan to maintain its stability while addressing employee concerns ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ what are the future growth plans for the bank and how do they align with employee career growth ,Neutral,Neutral,TRUE,,,,,,,,
+ what are the plans to enhance the training programs for new and existing employees ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the bank plan to address the increasing workload and stress levels among employees ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how can employees get involved in company culture initiatives ,Neutral,Neutral,TRUE,,,,,,,,
+ can you provide an overview of the bank s financial health and stability ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what steps are being taken to address employee concerns about job security ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ what is being done about the poor quality of some of our training materials ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how can employees get involved in volunteer opportunities ,Neutral,Neutral,TRUE,,,,,,,,
+ what are the strategies to improve communication between different departments ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what is the company doing to manage the high levels of debt ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ what are the latest developments in the bank s strategic partnerships ,Neutral,Neutral,TRUE,,,,,,,,
+ can you address the inadequacies in the canteen facilities and what is being done to improve them ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ what steps is the company taking to improve workplace culture ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what is the company doing to address the dissatisfaction with the current health benefits ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how does the bank support continuous learning and professional growth for its employees ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what steps are being taken to improve the bank s reputation in the industry ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank support employees in achieving their career goals ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the bank plan to adapt to changes in the regulatory landscape ,Neutral,Neutral,TRUE,,,,,,,,
+ why is there a lack of transparency in how employee grievances are handled ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ are there any new initiatives to promote work life balance ,Neutral,Neutral,TRUE,,,,,,,,
+ what initiatives are being taken to improve the onboarding process for new employees ,Neutral,Neutral,TRUE,,,,,,,,
+ what measures are being taken to ensure that the performance evaluation process is fair and transparent ,Neutral,Neutral,TRUE,,,,,,,,
+what new technologies are being implemented to improve our workflows ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how can employees suggest new tools or technologies for the company to consider ,Neutral,Neutral,TRUE,,,,,,,,
+ are there any plans to review and adjust employee salaries ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how does the bank support employees in times of personal or family crises ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to address the challenges of digital transformation ,Neutral,Neutral,TRUE,,,,,,,,
+ how is the company fostering a culture of innovation ,Neutral,Neutral,TRUE,,,,,,,,
+ can you share the bank s long term strategy for employee development and career progression ,Neutral,Neutral,TRUE,,,,,,,,
+ can you highlight any recent accolades or awards the bank has received for its performance or services ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ why is there a lack of support for employees struggling with new technology ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ what measures are being taken to improve the efficiency of internal processes ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ can you provide updates on the bank s corporate social responsibility csr initiatives ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ can you provide an update on the bank s corporate social responsibility initiatives and their impact ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what steps are being taken to ensure ethical practices within the organization ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what are the key performance indicators we are tracking this quarter ,Neutral,Neutral,TRUE,,,,,,,,
+ what initiatives are in place to promote work life balance for employees ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what improvements can we expect in our customer service operations ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the bank measure the success of its strategic initiatives ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank support employee wellness programs ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what are we doing to address the criticism from ngos regarding our business practices ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how does the company justify the recent cuts in employee benefits ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ what positive feedback has been received from recent employee surveys ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how are we dealing with the reports of favoritism within teams ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how does the bank plan to support local communities and businesses ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what steps are being taken to ensure the ethical treatment of all stakeholders ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank ensure the security of its physical and digital assets ,Neutral,Neutral,TRUE,,,,,,,,
+ how will the company handle the backlash from employees over the new technology policy ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ what steps are being taken to address the complaints about workplace bullying ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ what new technologies are being implemented to improve our workflows ,Neutral,Neutral,TRUE,,,,,,,,
+ can you share the bank s achievements in terms of sustainability and environmental responsibility ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what is being done to address the frequent system outages ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how does the bank measure and improve employee productivity ,Neutral,Neutral,TRUE,,,,,,,,
+ what measures are being taken to improve the bank s loan processing times ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to foster a more collaborative work environment ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what steps are being taken to improve the diversity of thought and experience within the bank ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank ensure fair and unbiased recruitment processes ,Neutral,Neutral,TRUE,,,,,,,,
+ what initiatives are in place to enhance employee engagement and satisfaction ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what steps are being taken to ensure fair and timely promotions for employees who are already performing roles above their current grade ,Neutral,Neutral,TRUE,,,,,,,,
+ why has there been a delay in processing employee bonuses ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ can you provide updates on the bank s efforts to enhance financial literacy in the community ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how is the bank planning to invest in new technologies to enhance operational efficiency ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what initiatives are being taken to enhance the customer experience ,Neutral,Neutral,TRUE,,,,,,,,
+ what new skills can employees expect to gain from upcoming training sessions ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what are the main achievements from our recent strategic initiatives ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+how does the company measure the impact of its social responsibility efforts ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how often are benefits packages reviewed ,Neutral,Neutral,TRUE,,,,,,,,
+ how can employees provide feedback on existing training programs ,Neutral,Neutral,TRUE,,,,,,,,
+ can we expect a more transparent process regarding yearly hikes and bonuses ,Negative,Neutral,FALSE,,,0,0,0,0,0,1
+ how does the bank plan to adapt to emerging market trends and opportunities ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what is being done to enhance the communication channels between employees and management ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to leverage technology to enhance customer experiences ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ can you provide an update on our strategic initiatives ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the company celebrate employee achievements ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what are the plans to enhance the existing training programs for employee skill development ,Neutral,Neutral,TRUE,,,,,,,,
+ what is the company s approach to digital transformation ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to enhance its training and development programs ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how has our market position improved recently ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the bank ensure compliance with regulatory requirements while maintaining operational efficiency ,Neutral,Neutral,TRUE,,,,,,,,
+ what steps are being taken to improve the bank s it infrastructure ,Positive,Positive,TRUE,,,,,,,,
+ can you highlight some of the recent technological advancements the bank has adopted ,Positive,Positive,TRUE,,,,,,,,
+ are there opportunities for cross departmental training ,Neutral,Neutral,TRUE,,,,,,,,
+ what is being done to address the negative media coverage of our environmental practices ,Negative,Negative,TRUE,,,,,,,,
+ how does the bank plan to enhance its competitive advantage in the market ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the company plan to address the low participation rates in training programs ,Negative,Negative,TRUE,,,,,,,,
+ how does the bank plan to adapt to changing customer needs and preferences ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the management plan to address the perception that talent is not valued in terms of compensation and recognition ,Negative,Negative,TRUE,,,,,,,,
+ can you share some success stories from the past year ,Positive,Positive,TRUE,,,,,,,,
+ can we expect any changes to the bank s remote work policies ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to foster a culture of accountability and responsibility ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what initiatives are in place to improve the physical workplace environment ,Neutral,Neutral,TRUE,,,,,,,,
+ what feedback has been received from recent employee surveys ,Neutral,Positive,FALSE,,,0,1,0,0,0,0
+ how does the bank support continuous learning and development for its employees ,Neutral,Positive,FALSE,,,0,1,0,0,0,0
+ how does the bank plan to address the skills gap in the workforce ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to improve its public relations and brand image ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ how does the bank ensure a diverse and inclusive workplace beyond just gender diversity ,Neutral,Neutral,TRUE,,,,,,,,
+ what initiatives are in place to support employee volunteerism and community service ,Positive,Positive,TRUE,,,,,,,,
+ what is the process for employees to give feedback on compensation and benefits ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the company handle workplace conflicts or grievances ,Neutral,Neutral,TRUE,,,,,,,,
+ why are there discrepancies in salary adjustments across similar roles ,Negative,Negative,TRUE,,,,,,,,
+ what are the bank s priorities for the next fiscal year ,Neutral,Positive,FALSE,,,0,1,0,0,0,0
+ how does the bank plan to improve the transparency of its governance practices ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank ensure transparency in its decision making processes ,Neutral,Neutral,TRUE,,,,,,,,
+ can you share success stories of employees who have grown within the organization ,Positive,Positive,TRUE,,,,,,,,
+ how does the bank plan to improve customer service and satisfaction ,Neutral,Positive,FALSE,,,0,1,0,0,0,0
+ how does the company recognize employees who excel in training programs ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ what steps are being taken to improve employee engagement and satisfaction ,Neutral,Neutral,TRUE,,,,,,,,
+ how does the bank plan to foster a culture of continuous improvement ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ are there any plans to enhance the existing employee recognition programs ,Neutral,Neutral,TRUE,,,,,,,,
+ how are the bank s diversity and inclusion initiatives progressing ,Positive,Positive,TRUE,,,,,,,,
+how does the company reward employees for their hard work ,Positive,Neutral,FALSE,,,1,0,0,0,0,0
+ why is there a lack of clarity around the company s long term vision ,Negative,Negative,TRUE,,,,,,,,
+ what new training programs will be available to employees ,Neutral,Positive,FALSE,,,0,1,0,0,0,0
+ how does the bank recognize and reward innovation among employees ,Neutral,Positive,FALSE,,,0,1,0,0,0,0
+ how does the bank support innovation and creative thinking among employees ,Positive,Positive,TRUE,,,,,,,,
+ are there any new partnerships with non profits or community organizations ,Neutral,Neutral,TRUE,,,,,,,,
+ what are the key focus areas for the bank in the next five years ,Neutral,Neutral,TRUE,,,,,,,,
+ what are the latest initiatives in our corporate social responsibility program ,Positive,Positive,TRUE,,,,,,,,
+what are the latest initiatives in our corporate social responsibility program ,Positive,Positive,TRUE,,,,,,,,
+ how does the bank plan to enhance its community engagement initiatives ,Positive,Positive,TRUE,,,,,,,,
+ what measures are being taken to ensure the safety and security of employees ,Neutral,Neutral,TRUE,,,,,,,,
